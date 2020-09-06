@@ -1,0 +1,5 @@
+Brown_spot
+Healthy
+Hispa
+Leaf_blight
+Leaf_smut

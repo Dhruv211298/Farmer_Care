@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "866999825245",
+    "firebase_url": "https://nodedht11.firebaseio.com",
+    "project_id": "nodedht11",
+    "storage_bucket": "nodedht11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866999825245:android:78ab2f0d38767bb32a2eb4",
+        "android_client_info": {
+          "package_name": "com.shahdhruv.farmercare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866999825245-ve9nibj2vgvg9gfucmj6g4m2jfubluc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4gcOaA7meKjM5sXpL6WtXAGDFTP97DbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866999825245-ve9nibj2vgvg9gfucmj6g4m2jfubluc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
